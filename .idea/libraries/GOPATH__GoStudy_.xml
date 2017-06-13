@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;GoStudy&gt;">
+    <CLASSES>
+      <root url="file:///usr/local/Cellar/go/1.8/src/sourcegraph.com" />
+      <root url="file:///usr/local/Cellar/go/1.8/src/go.uber.org" />
+      <root url="file:///usr/local/Cellar/go/1.8/src/dev-api" />
+      <root url="file:///usr/local/Cellar/go/1.8/src/go-api" />
+      <root url="file:///usr/local/Cellar/go/1.8/src/gopkg.in" />
+      <root url="file:///usr/local/Cellar/go/1.8/src/xiwidev-api" />
+      <root url="file:///usr/local/Cellar/go/1.8/src/github.com" />
+      <root url="file:///usr/local/Cellar/go/1.8/src/golang.org" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file:///usr/local/Cellar/go/1.8/src/sourcegraph.com" />
+      <root url="file:///usr/local/Cellar/go/1.8/src/go.uber.org" />
+      <root url="file:///usr/local/Cellar/go/1.8/src/dev-api" />
+      <root url="file:///usr/local/Cellar/go/1.8/src/go-api" />
+      <root url="file:///usr/local/Cellar/go/1.8/src/gopkg.in" />
+      <root url="file:///usr/local/Cellar/go/1.8/src/xiwidev-api" />
+      <root url="file:///usr/local/Cellar/go/1.8/src/github.com" />
+      <root url="file:///usr/local/Cellar/go/1.8/src/golang.org" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
